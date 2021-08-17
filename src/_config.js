@@ -3,7 +3,7 @@ export const process = {
 };
 
 export const app = {
-  title: 'Template'
+  title: 'Notes'
 }
 
 export const links = [
